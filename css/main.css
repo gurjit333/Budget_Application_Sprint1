@@ -123,3 +123,7 @@ body {
   content: "\2665";
 }
 
+.top_fill {
+  overflow: hidden;
+  background-color: rgba(12, 14, 5, 0.502);
+}
