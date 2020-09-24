@@ -124,6 +124,6 @@ body {
 }
 
 .top_fill {
-  overflow: hidden;
-  background-color: rgba(12, 14, 5, 0.502);
+  overflow: visible;
+  background-color: rgba(18, 28, 29, 0.877);
 }
