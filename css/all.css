@@ -20,3 +20,8 @@
 .fa-trash-alt:before {
   content: "\f2ed"; }
 
+.mb-4 {
+ border-style: outset;
+ border-radius: 6px;
+ border-color: rgba(23, 122, 18, 0.932);
+}
